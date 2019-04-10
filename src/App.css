@@ -23,6 +23,18 @@
   color: #61dafb;
 }
 
+.lotties {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .lotties {
+    display: grid;
+    grid-template-columns: auto;
+  }
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

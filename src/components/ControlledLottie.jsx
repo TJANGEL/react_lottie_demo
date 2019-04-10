@@ -1,7 +1,7 @@
 // ControlledLottie.jsx
 import React, { Component } from "react";
 import Lottie from "react-lottie";
-import animationData from "../lotties/4248-loading.json.js";
+import animationData from "../lotties/4248-loading.json";
 
 class ControlledLottie extends Component {
   state = { isStopped: false, isPaused: false };

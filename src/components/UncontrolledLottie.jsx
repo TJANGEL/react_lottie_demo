@@ -1,7 +1,7 @@
 // UncontrolledLottie.jsx
 import React, { Component } from "react";
 import Lottie from "react-lottie";
-import animationData from "../lotties/4250-pull-to-refresh.json.js";
+import animationData from "../lotties/4250-pull-to-refresh.json";
 
 class UncontrolledLottie extends Component {
   render() {
