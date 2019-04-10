@@ -7,3 +7,7 @@ Shows the ease of manipulating and implementing complex animations into apps
 ### yarn add:
 
 `react-lottie`
+
+### Heroku Deployment
+
+Click [HERE](https://lit-brushlands-43608.herokuapp.com/) to view demo
